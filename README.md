@@ -43,6 +43,7 @@ The final day was all about polishing and launching the project. Steps included:
 
 Deploying the fully functional Nike e-commerce website on Vercel.
 . Securing sensitive data by configuring environment variables.
+
 . Running a final PageSpeed Insights test to evaluate performance.
 . Compiling a final report with all testing results and performance metrics.
 . Watching the platform go live was incredibly rewarding!
