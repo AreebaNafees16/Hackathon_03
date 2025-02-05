@@ -7,6 +7,7 @@ A 6-Day Journey of Building an E-Commerce Platform
 By Areeba Muhammad Nafees
 
 Day 1: Brainstorming & Business Concept
+
 The hackathon kicked off with an exciting challenge: sketch out a business idea using just a pen and paper. I pitched an innovative e-commerce platform designed to enhance customer experience with seamless navigation and intuitive features. This initial brainstorming session helped lay a strong foundation for the project, setting the vision for the next steps.
 
 Day 2: Structuring the Technical Framework
