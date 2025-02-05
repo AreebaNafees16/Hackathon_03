@@ -1,0 +1,9 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Validate product list,Open product page,Products displayed,Products displayed,Passed,Low,_,None
+TC002,Test FAQs page,Open FAQs page,FAQs displayed correctly,FAQs displayed correctly,Passed,Low,_,None
+TC003,Add to cart,Add product to cart,Product added to cart,Product added to cart,Passed,Low,_,None
+TC004,Checkout process,Complete purchase,Order confirmation page,Order confirmation page,Passed,Medium,_,None
+TC005,Test navigation links,Click on navigation links,Navigate to correct pages,Navigate to correct pages,Passed,Low,_,None
+TC006,Responsiveness on mobile,Resize browser or use a mobile device,Layout adjusts correctly,Layout adjusts correctly,Passed,Medium,_,None
+TC007,Validate SEO Optimization,Analyze PageSpeed Insights SEO tab,SEO score is 100,SEO score is 100,Passed,Low,_,None
+TC008,Validate Performance Optimization,Analyze PageSpeed Insights Performance tab,Performance score is 95 or higher,Performance score is 95,Passed,Medium,_,Consider improving load time
