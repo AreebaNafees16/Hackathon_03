@@ -1,24 +1,28 @@
 # Hackathon_03
 Self Learning
-Marketplace Hackathon Documentation
+# Marketplace Hackathon Documentation
 
-A 6-Day Journey of Building an E-Commerce Platform
+# A 6-Day Journey of Building an E-Commerce Platform
 
 By Areeba Muhammad Nafees
 
-Day 1: Brainstorming & Business Concept
+# Day 1: Brainstorming & Business Concept
 
-The hackathon kicked off with an exciting challenge: sketch out a business idea using just a pen and paper. I pitched an innovative e-commerce platform designed to enhance customer experience with seamless navigation and intuitive features. This initial brainstorming session helped lay a strong foundation for the project, setting the vision for the next steps.
+The hackathon kicked off with an exciting challenge:
+sketch out a business idea using just a pen and paper. I pitched an innovative e-commerce platform designed to enhance customer experience with seamless navigation and intuitive features. This initial brainstorming session helped lay a strong foundation for the project, setting the vision for the next steps.
 
-Day 2: Structuring the Technical Framework
+# Day 2: Structuring the Technical Framework
 With a clear concept in mind, I shifted focus to the technical setup. My tasks included:
 
 . Designing API endpoints for smooth backend communication.
+
 . Structuring Sanity CMS schemas to manage products efficiently.
+
 . Creating a development roadmap to guide the project’s execution.
+
 . This phase was all about planning and ensuring a well-organized workflow.
 
-Day 3: Backend Integration & Data Handling
+# Day 3: Backend Integration & Data Handling
 Day three was all about connecting the dots between the backend and frontend. I worked on:
 
 . Integrating APIs to fetch and send product data.
