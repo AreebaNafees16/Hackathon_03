@@ -25,7 +25,7 @@ With a clear concept in mind, I shifted focus to the technical setup. My tasks i
 # Day 3: Backend Integration & Data Handling
 Day three was all about connecting the dots between the backend and frontend. I worked on:
 
-##. Integrating APIs to fetch and send product data.
+. Integrating APIs to fetch and send product data.
 . Migrating product details into Sanity CMS for dynamic content management.
 
 . Displaying real-time data on the website to ensure an interactive user experience.
