@@ -1,5 +1,0 @@
-Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
-TC001,Validate product list,Open product page,Products displayed,Products displayed,Passed,Low,Alice,None
-TC002,Test search filter,Search 'Laptop',Laptops displayed,Laptops not displayed,Failed,High,Bob,Fix search logic
-TC003,Add to cart,Add product to cart,Product added to cart,Product added to cart,Passed,Low,Alice,None
-TC004,Checkout process,Complete purchase,Order confirmation page,Order confirmation page,Passed,Medium,Bob,None
